@@ -1,0 +1,298 @@
+/* 
+   :host {
+    display: block;
+    margin: 20px;
+  }
+  
+  svg {
+    background: white;
+    border-radius: 12px;
+    box-shadow: 0 0 20px rgba(0,0,0,0.05);
+  }
+  
+  .grid line {
+    stroke: #eee;
+  }
+  
+   :host {
+    display: block;
+    margin: 20px auto;
+    max-width: 800px;
+    padding: 20px;
+    background: white;
+    border-radius: 20px;
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.1);
+    animation: fadeIn 1s ease-in-out;
+  }
+  
+  svg {
+    border-radius: 15px;
+    background: #f5f7fa;
+    overflow: visible;
+  }
+  
+  path.graph-line {
+    stroke: #007acc;
+    stroke-width: 3;
+    fill: none;
+    stroke-dasharray: 1000;
+    stroke-dashoffset: 1000;
+    animation: drawLine 2s ease-out forwards;
+  }
+  
+  circle {
+    fill: #007acc;
+    transition: transform 0.3s ease;
+  }
+  circle:hover {
+    transform: scale(1.3);
+    fill: #005999;
+  } */
+  
+  /* אנימציות */
+  /* @keyframes drawLine {
+    to {
+      stroke-dashoffset: 0;
+    }
+  }
+  
+  @keyframes fadeIn {
+    from {
+      opacity: 0;
+      transform: translateY(30px);
+    }
+    to {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+   */
+
+
+
+
+
+
+   /* :host {
+    display: block;
+    margin: 40px auto;
+    max-width: 900px;
+    padding: 30px;
+    background: white;
+    border-radius: 20px;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+    animation: fadeIn 1s ease-in-out;
+    position: relative;
+    min-height: 450px;
+  }
+  
+  svg {
+    border-radius: 15px;
+    background: #f5f7fa;
+    overflow: visible;
+    width: 100%;
+  }
+  
+  path.graph-line {
+    stroke: #007acc;
+    stroke-width: 3;
+    fill: none;
+    stroke-dasharray: 1000;
+    stroke-dashoffset: 1000;
+    animation: drawLine 2s ease-out forwards;
+  }
+  
+  circle {
+    fill: #007acc;
+    transition: transform 0.3s ease;
+  }
+  circle:hover {
+    transform: scale(1.3);
+    fill: #005999;
+  }
+  
+  .grid line {
+    stroke: #eee;
+  }
+  
+  /* טעינה */
+  /* .loading-container {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    font-size: 18px;
+    color: #666;
+  }
+  
+  h3 {
+    text-align: center;
+    color: #cc0000;
+    margin-top: 20px;
+  }
+  
+  /* אנימציות */
+  /* @keyframes drawLine {
+    to {
+      stroke-dashoffset: 0;
+    }
+  }
+  
+  @keyframes fadeIn {
+    from {
+      opacity: 0;
+      transform: translateY(30px);
+    }
+    to {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+    */
+
+
+
+/* 
+ :host {
+  display: block;
+  margin: 40px auto;
+  max-width: 1000px;
+  padding: 30px;
+  background: white;
+  border-radius: 20px;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+  animation: fadeIn 1s ease-in-out;
+  position: relative;
+  min-height: 400px;
+}
+
+.graph-wrapper {
+  position: relative;
+}
+
+.chart-container {
+  animation: slideIn 0.8s ease-out;
+}
+
+canvas {
+  width: 100% !important;
+  height: auto !important;
+  display: block;
+  margin: auto;
+}
+
+.button-group {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+  margin-bottom: 20px;
+}
+
+.button-group button {
+  padding: 8px 16px;
+  border: none;
+  background-color: #007acc;
+  color: white;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.button-group button:hover {
+  background-color: #005fa3;
+}
+
+/* טעינה */
+/* .loading-container {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+  font-size: 18px;
+  color: #666;
+  z-index: 10;
+}
+
+.error-message {
+  text-align: center;
+  color: #cc0000;
+  font-weight: bold;
+  margin-top: 20px;
+} */
+
+/* אנימציות */
+/* @keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(30px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes slideIn {
+  from {
+    opacity: 0;
+    transform: translateX(-50px);
+  }
+  to {
+    opacity: 1;
+    transform: translateX(0);
+  }
+} */ 
+
+
+:host {
+  display: block;
+  margin: 15px auto;
+  width: 100%; /* רוחב מלא */
+  max-width: 800px; /* רוחב מקסימלי */
+  height: 400px; /* גובה קבוע */
+  background: #ffffff;
+  border-radius: 24px;
+  box-shadow: 0 15px 40px rgba(0, 0, 0, 0.1);
+  position: relative;
+  overflow: hidden; /* למנוע גלילה פנימית */
+}
+
+.graph-wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 100%; /* תופס את כל הגובה */
+}
+
+.chart-container {
+  width: 100%;
+  height: 100%; /* תופס את כל הגובה */
+  position: relative;
+}
+
+canvas {
+  width: 100% !important;
+  height: 100% !important;
+  display: block;
+}
+
+.loading-container,
+.error-message {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  height: 100%; /* תופס את כל הגובה */
+  font-size: 18px;
+  color: #555;
+  text-align: center;
+}
+
+.error-message {
+  color: #d32f2f;
+  font-weight: 600;
+}

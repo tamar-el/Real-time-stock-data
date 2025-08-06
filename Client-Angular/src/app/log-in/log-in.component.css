@@ -1,0 +1,110 @@
+
+   body, html {
+    margin: 0;
+    padding: 0;
+    direction: rtl;
+    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #ffffff;
+    height: 100vh;
+  }
+  
+  .registration-container {
+    display: flex;
+    height: 100vh;
+    width: 100%;
+  }
+  
+  .image-side {
+    flex: 1;
+    background-image: url('../../../public/pictures/g2.jpeg'); /* שנה בהתאם למיקום */
+    background-size: cover;
+    background-position: center;
+  }
+  
+  .form-side {
+    flex: 1;
+    background-color: #f8f8f8;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  form {
+    background-color: white;
+    padding: 40px;
+    border-radius: 12px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    width: 100%;
+    max-width: 400px;
+  }
+  
+  form h2 {
+    color: #d6006b;
+    font-size: 28px;
+    margin-bottom: 8px;
+    text-align: center;
+  }
+  
+  form p {
+    text-align: center;
+    font-size: 14px;
+    color: #444;
+    margin-bottom: 24px;
+  }
+  
+  label {
+    font-weight: bold;
+    display: block;
+    margin-top: 10px;
+    margin-bottom: 5px;
+  }
+  
+  input[type="text"],
+  input[type="password"] {
+    width: 100%;
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 6px;
+    margin-bottom: 8px;
+    transition: border-color 0.3s;
+  }
+  
+  input:focus {
+    border-color: #d6006b;
+    outline: none;
+  }
+  
+  div {
+    color: red;
+    font-size: 12px;
+  }
+  
+  .checkbox-container {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    margin: 16px 0;
+    font-size: 14px;
+  }
+  
+  button {
+    background-color: #d6006b;
+    color: white;
+    width: 100%;
+    padding: 12px;
+    font-size: 16px;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+  }
+  
+  button:hover {
+    background-color: #c1005e;
+  }
+  
+  button:disabled {
+    background-color: #ccc;
+    cursor: not-allowed;
+  }
+  

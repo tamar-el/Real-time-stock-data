@@ -1,0 +1,23 @@
+
+   <div class="graph-wrapper">
+    <div *ngIf="isLoading" class="loading-container">
+      <app-loading-spinner *ngIf="!ToPlay"></app-loading-spinner>
+      <div *ngIf="!ToPlay">טוען נתונים...</div>
+      <app-logo-quiz *ngIf="ToPlay"></app-logo-quiz>
+    </div>
+  
+    <div *ngIf="!isLoading && errText" class="error-message">
+      <h3>{{ errText }}</h3>
+      <button (click)="startGame()">התחל משחק</button>
+    </div>
+  
+
+    <div *ngIf="!isLoading && !errText" class="chart-container">
+      <canvas baseChart
+          [datasets]="chartData"
+          [labels]="chartLabels"
+          [options]="chartOptions"
+          [legend]="true"
+          chartType="pie"> 
+      </canvas>
+  </div>

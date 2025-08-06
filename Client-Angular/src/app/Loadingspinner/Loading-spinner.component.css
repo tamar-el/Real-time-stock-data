@@ -1,0 +1,27 @@
+
+   .rainbow-spinner ::ng-deep circle {
+    stroke-linecap: round;
+    animation: colorCycle 2s linear infinite;
+  }
+  
+  @keyframes colorCycle {
+    0% {
+      stroke: red;
+    }
+    20% {
+      stroke: orange;
+    }
+    40% {
+      stroke: yellow;
+    }
+    60% {
+      stroke: green;
+    }
+    80% {
+      stroke: blue;
+    }
+    100% {
+      stroke: red;
+    }
+  }
+  

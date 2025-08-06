@@ -1,0 +1,14 @@
+
+<nav class="navbar">
+ 
+    <button 
+    *ngFor="let period of periods"
+    (click)="onStockDayeClick(period)"
+    class="nav-button"
+    [class.selected]="isSelected(period)">
+    {{period }}
+  </button>
+  
+  </nav>
+  
+

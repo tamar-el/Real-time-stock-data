@@ -1,0 +1,84 @@
+.quiz-card {
+    max-width: 1000px;
+    margin: 30px auto;
+    padding: 20px;
+    background: #f9f9f9;
+    border-radius: 16px;
+    box-shadow: 0 6px 20px rgba(0, 0, 0, 0.08);
+    font-family: 'Segoe UI', sans-serif;
+    animation: fadeIn 0.5s ease-in;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+  }
+  
+  .top-bar {
+    display: flex;
+    justify-content: space-between;
+    font-weight: bold;
+    color: #333;
+  }
+  
+  .quiz-content {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 40px;
+    flex-wrap: wrap; /* מבטיח פריסה טובה במסכים קטנים */
+  }
+  
+  .logo {
+    width: 160px;
+    max-width: 40%;
+    animation: zoomIn 0.6s ease;
+    flex-shrink: 0;
+  }
+  
+  .choices {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr); /* שני טורים */
+    gap: 15px;
+    flex: 1;
+    min-width: 220px;
+  }
+  
+  .choice-btn {
+    padding: 16px;
+    border: none;
+    border-radius: 10px;
+    background-color: #4CAF50;
+    color: white;
+    font-size: 18px;
+    cursor: pointer;
+    transition: background 0.3s, transform 0.2s;
+    text-align: center;
+  }
+  
+  .choice-btn:hover {
+    background-color: #45a049;
+    transform: scale(1.04);
+  }
+  
+  .feedback {
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+  }
+  
+  .correct {
+    color: green;
+  }
+  .wrong {
+    color: red;
+  }
+  
+  @keyframes fadeIn {
+    from { opacity: 0; transform: translateY(10px); }
+    to { opacity: 1; transform: translateY(0); }
+  }
+  
+  @keyframes zoomIn {
+    from { transform: scale(0.5); opacity: 0; }
+    to { transform: scale(1); opacity: 1; }
+  }
+  

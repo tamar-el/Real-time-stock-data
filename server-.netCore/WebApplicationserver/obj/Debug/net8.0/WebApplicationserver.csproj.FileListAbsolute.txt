@@ -1,0 +1,132 @@
+C:\Users\חיליש\Desktop\תכנות שנה ב\Angular\WebApplicationserver\WebApplicationserver\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\חיליש\Desktop\תכנות שנה ב\Angular\WebApplicationserver\WebApplicationserver\bin\Debug\net8.0\appsettings.json
+C:\Users\חיליש\Desktop\תכנות שנה ב\Angular\WebApplicationserver\WebApplicationserver\bin\Debug\net8.0\WebApplicationserver.exe
+C:\Users\חיליש\Desktop\תכנות שנה ב\Angular\WebApplicationserver\WebApplicationserver\bin\Debug\net8.0\WebApplicationserver.deps.json
+C:\Users\חיליש\Desktop\תכנות שנה ב\Angular\WebApplicationserver\WebApplicationserver\bin\Debug\net8.0\WebApplicationserver.runtimeconfig.json
+C:\Users\חיליש\Desktop\תכנות שנה ב\Angular\WebApplicationserver\WebApplicationserver\bin\Debug\net8.0\WebApplicationserver.dll
+C:\Users\חיליש\Desktop\תכנות שנה ב\Angular\WebApplicationserver\WebApplicationserver\bin\Debug\net8.0\WebApplicationserver.pdb
+C:\Users\חיליש\Desktop\תכנות שנה ב\Angular\WebApplicationserver\WebApplicationserver\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\חיליש\Desktop\תכנות שנה ב\Angular\WebApplicationserver\WebApplicationserver\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\חיליש\Desktop\תכנות שנה ב\Angular\WebApplicationserver\WebApplicationserver\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\חיליש\Desktop\תכנות שנה ב\Angular\WebApplicationserver\WebApplicationserver\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\חיליש\Desktop\תכנות שנה ב\Angular\WebApplicationserver\WebApplicationserver\obj\Debug\net8.0\WebApplicationserver.csproj.AssemblyReference.cache
+C:\Users\חיליש\Desktop\תכנות שנה ב\Angular\WebApplicationserver\WebApplicationserver\obj\Debug\net8.0\WebApplicationserver.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\חיליש\Desktop\תכנות שנה ב\Angular\WebApplicationserver\WebApplicationserver\obj\Debug\net8.0\WebApplicationserver.AssemblyInfoInputs.cache
+C:\Users\חיליש\Desktop\תכנות שנה ב\Angular\WebApplicationserver\WebApplicationserver\obj\Debug\net8.0\WebApplicationserver.AssemblyInfo.cs
+C:\Users\חיליש\Desktop\תכנות שנה ב\Angular\WebApplicationserver\WebApplicationserver\obj\Debug\net8.0\WebApplicationserver.csproj.CoreCompileInputs.cache
+C:\Users\חיליש\Desktop\תכנות שנה ב\Angular\WebApplicationserver\WebApplicationserver\obj\Debug\net8.0\WebApplicationserver.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\חיליש\Desktop\תכנות שנה ב\Angular\WebApplicationserver\WebApplicationserver\obj\Debug\net8.0\WebApplicationserver.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\חיליש\Desktop\תכנות שנה ב\Angular\WebApplicationserver\WebApplicationserver\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\חיליש\Desktop\תכנות שנה ב\Angular\WebApplicationserver\WebApplicationserver\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\חיליש\Desktop\תכנות שנה ב\Angular\WebApplicationserver\WebApplicationserver\obj\Debug\net8.0\staticwebassets\msbuild.WebApplicationserver.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\חיליש\Desktop\תכנות שנה ב\Angular\WebApplicationserver\WebApplicationserver\obj\Debug\net8.0\staticwebassets\msbuild.build.WebApplicationserver.props
+C:\Users\חיליש\Desktop\תכנות שנה ב\Angular\WebApplicationserver\WebApplicationserver\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WebApplicationserver.props
+C:\Users\חיליש\Desktop\תכנות שנה ב\Angular\WebApplicationserver\WebApplicationserver\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WebApplicationserver.props
+C:\Users\חיליש\Desktop\תכנות שנה ב\Angular\WebApplicationserver\WebApplicationserver\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\חיליש\Desktop\תכנות שנה ב\Angular\WebApplicationserver\WebApplicationserver\obj\Debug\net8.0\scopedcss\bundle\WebApplicationserver.styles.css
+C:\Users\חיליש\Desktop\תכנות שנה ב\Angular\WebApplicationserver\WebApplicationserver\obj\Debug\net8.0\WebAppli.48C606A6.Up2Date
+C:\Users\חיליש\Desktop\תכנות שנה ב\Angular\WebApplicationserver\WebApplicationserver\obj\Debug\net8.0\WebApplicationserver.dll
+C:\Users\חיליש\Desktop\תכנות שנה ב\Angular\WebApplicationserver\WebApplicationserver\obj\Debug\net8.0\refint\WebApplicationserver.dll
+C:\Users\חיליש\Desktop\תכנות שנה ב\Angular\WebApplicationserver\WebApplicationserver\obj\Debug\net8.0\WebApplicationserver.pdb
+C:\Users\חיליש\Desktop\תכנות שנה ב\Angular\WebApplicationserver\WebApplicationserver\obj\Debug\net8.0\WebApplicationserver.genruntimeconfig.cache
+C:\Users\חיליש\Desktop\תכנות שנה ב\Angular\WebApplicationserver\WebApplicationserver\obj\Debug\net8.0\ref\WebApplicationserver.dll
+C:\Users\חיליש\Desktop\תכנות שנה ב\Angular\WebApplicationserver\WebApplicationserver\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\חיליש\Desktop\תכנות שנה ב\Angular\פרוייקט\WebApplicationserver\WebApplicationserver\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\חיליש\Desktop\תכנות שנה ב\Angular\פרוייקט\WebApplicationserver\WebApplicationserver\bin\Debug\net8.0\appsettings.json
+C:\Users\חיליש\Desktop\תכנות שנה ב\Angular\פרוייקט\WebApplicationserver\WebApplicationserver\bin\Debug\net8.0\WebApplicationserver.exe
+C:\Users\חיליש\Desktop\תכנות שנה ב\Angular\פרוייקט\WebApplicationserver\WebApplicationserver\bin\Debug\net8.0\WebApplicationserver.deps.json
+C:\Users\חיליש\Desktop\תכנות שנה ב\Angular\פרוייקט\WebApplicationserver\WebApplicationserver\bin\Debug\net8.0\WebApplicationserver.runtimeconfig.json
+C:\Users\חיליש\Desktop\תכנות שנה ב\Angular\פרוייקט\WebApplicationserver\WebApplicationserver\bin\Debug\net8.0\WebApplicationserver.dll
+C:\Users\חיליש\Desktop\תכנות שנה ב\Angular\פרוייקט\WebApplicationserver\WebApplicationserver\bin\Debug\net8.0\WebApplicationserver.pdb
+C:\Users\חיליש\Desktop\תכנות שנה ב\Angular\פרוייקט\WebApplicationserver\WebApplicationserver\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\חיליש\Desktop\תכנות שנה ב\Angular\פרוייקט\WebApplicationserver\WebApplicationserver\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\חיליש\Desktop\תכנות שנה ב\Angular\פרוייקט\WebApplicationserver\WebApplicationserver\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\חיליש\Desktop\תכנות שנה ב\Angular\פרוייקט\WebApplicationserver\WebApplicationserver\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\חיליש\Desktop\תכנות שנה ב\Angular\פרוייקט\WebApplicationserver\WebApplicationserver\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\חיליש\Desktop\תכנות שנה ב\Angular\פרוייקט\WebApplicationserver\WebApplicationserver\obj\Debug\net8.0\WebApplicationserver.csproj.AssemblyReference.cache
+C:\Users\חיליש\Desktop\תכנות שנה ב\Angular\פרוייקט\WebApplicationserver\WebApplicationserver\obj\Debug\net8.0\WebApplicationserver.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\חיליש\Desktop\תכנות שנה ב\Angular\פרוייקט\WebApplicationserver\WebApplicationserver\obj\Debug\net8.0\WebApplicationserver.AssemblyInfoInputs.cache
+C:\Users\חיליש\Desktop\תכנות שנה ב\Angular\פרוייקט\WebApplicationserver\WebApplicationserver\obj\Debug\net8.0\WebApplicationserver.AssemblyInfo.cs
+C:\Users\חיליש\Desktop\תכנות שנה ב\Angular\פרוייקט\WebApplicationserver\WebApplicationserver\obj\Debug\net8.0\WebApplicationserver.csproj.CoreCompileInputs.cache
+C:\Users\חיליש\Desktop\תכנות שנה ב\Angular\פרוייקט\WebApplicationserver\WebApplicationserver\obj\Debug\net8.0\WebApplicationserver.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\חיליש\Desktop\תכנות שנה ב\Angular\פרוייקט\WebApplicationserver\WebApplicationserver\obj\Debug\net8.0\WebApplicationserver.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\חיליש\Desktop\תכנות שנה ב\Angular\פרוייקט\WebApplicationserver\WebApplicationserver\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\חיליש\Desktop\תכנות שנה ב\Angular\פרוייקט\WebApplicationserver\WebApplicationserver\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\חיליש\Desktop\תכנות שנה ב\Angular\פרוייקט\WebApplicationserver\WebApplicationserver\obj\Debug\net8.0\staticwebassets\msbuild.WebApplicationserver.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\חיליש\Desktop\תכנות שנה ב\Angular\פרוייקט\WebApplicationserver\WebApplicationserver\obj\Debug\net8.0\staticwebassets\msbuild.build.WebApplicationserver.props
+C:\Users\חיליש\Desktop\תכנות שנה ב\Angular\פרוייקט\WebApplicationserver\WebApplicationserver\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WebApplicationserver.props
+C:\Users\חיליש\Desktop\תכנות שנה ב\Angular\פרוייקט\WebApplicationserver\WebApplicationserver\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WebApplicationserver.props
+C:\Users\חיליש\Desktop\תכנות שנה ב\Angular\פרוייקט\WebApplicationserver\WebApplicationserver\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\חיליש\Desktop\תכנות שנה ב\Angular\פרוייקט\WebApplicationserver\WebApplicationserver\obj\Debug\net8.0\scopedcss\bundle\WebApplicationserver.styles.css
+C:\Users\חיליש\Desktop\תכנות שנה ב\Angular\פרוייקט\WebApplicationserver\WebApplicationserver\obj\Debug\net8.0\WebAppli.48C606A6.Up2Date
+C:\Users\חיליש\Desktop\תכנות שנה ב\Angular\פרוייקט\WebApplicationserver\WebApplicationserver\obj\Debug\net8.0\WebApplicationserver.dll
+C:\Users\חיליש\Desktop\תכנות שנה ב\Angular\פרוייקט\WebApplicationserver\WebApplicationserver\obj\Debug\net8.0\refint\WebApplicationserver.dll
+C:\Users\חיליש\Desktop\תכנות שנה ב\Angular\פרוייקט\WebApplicationserver\WebApplicationserver\obj\Debug\net8.0\WebApplicationserver.pdb
+C:\Users\חיליש\Desktop\תכנות שנה ב\Angular\פרוייקט\WebApplicationserver\WebApplicationserver\obj\Debug\net8.0\WebApplicationserver.genruntimeconfig.cache
+C:\Users\חיליש\Desktop\תכנות שנה ב\Angular\פרוייקט\WebApplicationserver\WebApplicationserver\obj\Debug\net8.0\ref\WebApplicationserver.dll
+C:\Users\חיליש\Desktop\תכנות שנה ב\Angular\פרוייקט\WebApplicationserver2\WebApplicationserver\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\חיליש\Desktop\תכנות שנה ב\Angular\פרוייקט\WebApplicationserver2\WebApplicationserver\bin\Debug\net8.0\appsettings.json
+C:\Users\חיליש\Desktop\תכנות שנה ב\Angular\פרוייקט\WebApplicationserver2\WebApplicationserver\bin\Debug\net8.0\WebApplicationserver.exe
+C:\Users\חיליש\Desktop\תכנות שנה ב\Angular\פרוייקט\WebApplicationserver2\WebApplicationserver\bin\Debug\net8.0\WebApplicationserver.deps.json
+C:\Users\חיליש\Desktop\תכנות שנה ב\Angular\פרוייקט\WebApplicationserver2\WebApplicationserver\bin\Debug\net8.0\WebApplicationserver.runtimeconfig.json
+C:\Users\חיליש\Desktop\תכנות שנה ב\Angular\פרוייקט\WebApplicationserver2\WebApplicationserver\bin\Debug\net8.0\WebApplicationserver.dll
+C:\Users\חיליש\Desktop\תכנות שנה ב\Angular\פרוייקט\WebApplicationserver2\WebApplicationserver\bin\Debug\net8.0\WebApplicationserver.pdb
+C:\Users\חיליש\Desktop\תכנות שנה ב\Angular\פרוייקט\WebApplicationserver2\WebApplicationserver\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\חיליש\Desktop\תכנות שנה ב\Angular\פרוייקט\WebApplicationserver2\WebApplicationserver\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\חיליש\Desktop\תכנות שנה ב\Angular\פרוייקט\WebApplicationserver2\WebApplicationserver\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\חיליש\Desktop\תכנות שנה ב\Angular\פרוייקט\WebApplicationserver2\WebApplicationserver\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\חיליש\Desktop\תכנות שנה ב\Angular\פרוייקט\WebApplicationserver2\WebApplicationserver\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\חיליש\Desktop\תכנות שנה ב\Angular\פרוייקט\WebApplicationserver2\WebApplicationserver\obj\Debug\net8.0\WebApplicationserver.csproj.AssemblyReference.cache
+C:\Users\חיליש\Desktop\תכנות שנה ב\Angular\פרוייקט\WebApplicationserver2\WebApplicationserver\obj\Debug\net8.0\WebApplicationserver.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\חיליש\Desktop\תכנות שנה ב\Angular\פרוייקט\WebApplicationserver2\WebApplicationserver\obj\Debug\net8.0\WebApplicationserver.AssemblyInfoInputs.cache
+C:\Users\חיליש\Desktop\תכנות שנה ב\Angular\פרוייקט\WebApplicationserver2\WebApplicationserver\obj\Debug\net8.0\WebApplicationserver.AssemblyInfo.cs
+C:\Users\חיליש\Desktop\תכנות שנה ב\Angular\פרוייקט\WebApplicationserver2\WebApplicationserver\obj\Debug\net8.0\WebApplicationserver.csproj.CoreCompileInputs.cache
+C:\Users\חיליש\Desktop\תכנות שנה ב\Angular\פרוייקט\WebApplicationserver2\WebApplicationserver\obj\Debug\net8.0\WebApplicationserver.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\חיליש\Desktop\תכנות שנה ב\Angular\פרוייקט\WebApplicationserver2\WebApplicationserver\obj\Debug\net8.0\WebApplicationserver.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\חיליש\Desktop\תכנות שנה ב\Angular\פרוייקט\WebApplicationserver2\WebApplicationserver\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\חיליש\Desktop\תכנות שנה ב\Angular\פרוייקט\WebApplicationserver2\WebApplicationserver\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\חיליש\Desktop\תכנות שנה ב\Angular\פרוייקט\WebApplicationserver2\WebApplicationserver\obj\Debug\net8.0\staticwebassets\msbuild.WebApplicationserver.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\חיליש\Desktop\תכנות שנה ב\Angular\פרוייקט\WebApplicationserver2\WebApplicationserver\obj\Debug\net8.0\staticwebassets\msbuild.build.WebApplicationserver.props
+C:\Users\חיליש\Desktop\תכנות שנה ב\Angular\פרוייקט\WebApplicationserver2\WebApplicationserver\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WebApplicationserver.props
+C:\Users\חיליש\Desktop\תכנות שנה ב\Angular\פרוייקט\WebApplicationserver2\WebApplicationserver\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WebApplicationserver.props
+C:\Users\חיליש\Desktop\תכנות שנה ב\Angular\פרוייקט\WebApplicationserver2\WebApplicationserver\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\חיליש\Desktop\תכנות שנה ב\Angular\פרוייקט\WebApplicationserver2\WebApplicationserver\obj\Debug\net8.0\scopedcss\bundle\WebApplicationserver.styles.css
+C:\Users\חיליש\Desktop\תכנות שנה ב\Angular\פרוייקט\WebApplicationserver2\WebApplicationserver\obj\Debug\net8.0\WebAppli.48C606A6.Up2Date
+C:\Users\חיליש\Desktop\תכנות שנה ב\Angular\פרוייקט\WebApplicationserver2\WebApplicationserver\obj\Debug\net8.0\WebApplicationserver.dll
+C:\Users\חיליש\Desktop\תכנות שנה ב\Angular\פרוייקט\WebApplicationserver2\WebApplicationserver\obj\Debug\net8.0\refint\WebApplicationserver.dll
+C:\Users\חיליש\Desktop\תכנות שנה ב\Angular\פרוייקט\WebApplicationserver2\WebApplicationserver\obj\Debug\net8.0\WebApplicationserver.pdb
+C:\Users\חיליש\Desktop\תכנות שנה ב\Angular\פרוייקט\WebApplicationserver2\WebApplicationserver\obj\Debug\net8.0\WebApplicationserver.genruntimeconfig.cache
+C:\Users\חיליש\Desktop\תכנות שנה ב\Angular\פרוייקט\WebApplicationserver2\WebApplicationserver\obj\Debug\net8.0\ref\WebApplicationserver.dll
+C:\Users\חיליש\Desktop\תכנות שנה ב\Angular\פרוייקט\Real-time stock project\server-.netCore\WebApplicationserver\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\חיליש\Desktop\תכנות שנה ב\Angular\פרוייקט\Real-time stock project\server-.netCore\WebApplicationserver\bin\Debug\net8.0\appsettings.json
+C:\Users\חיליש\Desktop\תכנות שנה ב\Angular\פרוייקט\Real-time stock project\server-.netCore\WebApplicationserver\bin\Debug\net8.0\WebApplicationserver.exe
+C:\Users\חיליש\Desktop\תכנות שנה ב\Angular\פרוייקט\Real-time stock project\server-.netCore\WebApplicationserver\bin\Debug\net8.0\WebApplicationserver.deps.json
+C:\Users\חיליש\Desktop\תכנות שנה ב\Angular\פרוייקט\Real-time stock project\server-.netCore\WebApplicationserver\bin\Debug\net8.0\WebApplicationserver.runtimeconfig.json
+C:\Users\חיליש\Desktop\תכנות שנה ב\Angular\פרוייקט\Real-time stock project\server-.netCore\WebApplicationserver\bin\Debug\net8.0\WebApplicationserver.dll
+C:\Users\חיליש\Desktop\תכנות שנה ב\Angular\פרוייקט\Real-time stock project\server-.netCore\WebApplicationserver\bin\Debug\net8.0\WebApplicationserver.pdb
+C:\Users\חיליש\Desktop\תכנות שנה ב\Angular\פרוייקט\Real-time stock project\server-.netCore\WebApplicationserver\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\חיליש\Desktop\תכנות שנה ב\Angular\פרוייקט\Real-time stock project\server-.netCore\WebApplicationserver\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\חיליש\Desktop\תכנות שנה ב\Angular\פרוייקט\Real-time stock project\server-.netCore\WebApplicationserver\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\חיליש\Desktop\תכנות שנה ב\Angular\פרוייקט\Real-time stock project\server-.netCore\WebApplicationserver\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\חיליש\Desktop\תכנות שנה ב\Angular\פרוייקט\Real-time stock project\server-.netCore\WebApplicationserver\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\חיליש\Desktop\תכנות שנה ב\Angular\פרוייקט\Real-time stock project\server-.netCore\WebApplicationserver\obj\Debug\net8.0\WebApplicationserver.csproj.AssemblyReference.cache
+C:\Users\חיליש\Desktop\תכנות שנה ב\Angular\פרוייקט\Real-time stock project\server-.netCore\WebApplicationserver\obj\Debug\net8.0\WebApplicationserver.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\חיליש\Desktop\תכנות שנה ב\Angular\פרוייקט\Real-time stock project\server-.netCore\WebApplicationserver\obj\Debug\net8.0\WebApplicationserver.AssemblyInfoInputs.cache
+C:\Users\חיליש\Desktop\תכנות שנה ב\Angular\פרוייקט\Real-time stock project\server-.netCore\WebApplicationserver\obj\Debug\net8.0\WebApplicationserver.AssemblyInfo.cs
+C:\Users\חיליש\Desktop\תכנות שנה ב\Angular\פרוייקט\Real-time stock project\server-.netCore\WebApplicationserver\obj\Debug\net8.0\WebApplicationserver.csproj.CoreCompileInputs.cache
+C:\Users\חיליש\Desktop\תכנות שנה ב\Angular\פרוייקט\Real-time stock project\server-.netCore\WebApplicationserver\obj\Debug\net8.0\WebApplicationserver.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\חיליש\Desktop\תכנות שנה ב\Angular\פרוייקט\Real-time stock project\server-.netCore\WebApplicationserver\obj\Debug\net8.0\WebApplicationserver.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\חיליש\Desktop\תכנות שנה ב\Angular\פרוייקט\Real-time stock project\server-.netCore\WebApplicationserver\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\חיליש\Desktop\תכנות שנה ב\Angular\פרוייקט\Real-time stock project\server-.netCore\WebApplicationserver\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\חיליש\Desktop\תכנות שנה ב\Angular\פרוייקט\Real-time stock project\server-.netCore\WebApplicationserver\obj\Debug\net8.0\staticwebassets\msbuild.WebApplicationserver.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\חיליש\Desktop\תכנות שנה ב\Angular\פרוייקט\Real-time stock project\server-.netCore\WebApplicationserver\obj\Debug\net8.0\staticwebassets\msbuild.build.WebApplicationserver.props
+C:\Users\חיליש\Desktop\תכנות שנה ב\Angular\פרוייקט\Real-time stock project\server-.netCore\WebApplicationserver\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WebApplicationserver.props
+C:\Users\חיליש\Desktop\תכנות שנה ב\Angular\פרוייקט\Real-time stock project\server-.netCore\WebApplicationserver\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WebApplicationserver.props
+C:\Users\חיליש\Desktop\תכנות שנה ב\Angular\פרוייקט\Real-time stock project\server-.netCore\WebApplicationserver\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\חיליש\Desktop\תכנות שנה ב\Angular\פרוייקט\Real-time stock project\server-.netCore\WebApplicationserver\obj\Debug\net8.0\scopedcss\bundle\WebApplicationserver.styles.css
+C:\Users\חיליש\Desktop\תכנות שנה ב\Angular\פרוייקט\Real-time stock project\server-.netCore\WebApplicationserver\obj\Debug\net8.0\WebAppli.48C606A6.Up2Date
+C:\Users\חיליש\Desktop\תכנות שנה ב\Angular\פרוייקט\Real-time stock project\server-.netCore\WebApplicationserver\obj\Debug\net8.0\WebApplicationserver.dll
+C:\Users\חיליש\Desktop\תכנות שנה ב\Angular\פרוייקט\Real-time stock project\server-.netCore\WebApplicationserver\obj\Debug\net8.0\refint\WebApplicationserver.dll
+C:\Users\חיליש\Desktop\תכנות שנה ב\Angular\פרוייקט\Real-time stock project\server-.netCore\WebApplicationserver\obj\Debug\net8.0\WebApplicationserver.pdb
+C:\Users\חיליש\Desktop\תכנות שנה ב\Angular\פרוייקט\Real-time stock project\server-.netCore\WebApplicationserver\obj\Debug\net8.0\WebApplicationserver.genruntimeconfig.cache
+C:\Users\חיליש\Desktop\תכנות שנה ב\Angular\פרוייקט\Real-time stock project\server-.netCore\WebApplicationserver\obj\Debug\net8.0\ref\WebApplicationserver.dll

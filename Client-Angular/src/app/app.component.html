@@ -1,0 +1,39 @@
+<app-log-in (userName)="handleLogin($event)" *ngIf="!isLoggedIn"></app-log-in>
+<div class="main-wrapper">
+<!-- <div> -->
+
+<!-- </div> -->
+<div class="nav-section">
+  <app-nav-type (notifyParentType)="onChildNotifyType($event)"></app-nav-type>
+  <app-nav-days (notifyParentPeriod)="onChildNotifyDay($event)"></app-nav-days>
+</div>
+ <section *ngIf="isLoggedIn" class="content-section">
+
+  <div >
+    <app-stock-card 
+      [stockPrice]="stockPrice"
+      [company]="messageFromChildType"
+      [change]="change"
+      [firstPrice]="firstPrice"
+      [lastPrice]="lastPrice">
+    </app-stock-card>
+
+    
+    <div class="ad-slider">
+
+      <div class="ad-caption">Welcome, {{ userData.name }}</div>
+      <img *ngFor="let img of adImages; let i = index"
+           [src]="img"
+           [class.active]="i === currentAdIndex"
+           alt="Ad image">
+    </div>
+  </div>
+
+  <app-graph
+    (CompanysData)="onCompanysData($event)"
+    [company]="messageFromChildType"
+    [range]="messageFromChildPeriod">
+  </app-graph>
+</section>
+</div>
+

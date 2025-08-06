@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u05D7\u05D9\u05DC\u05D9\u05E9\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05E9\u05E0\u05D4 \u05D1\\Angular\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\\Real-time stock project\\server-.netCore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{063B3439-3B76-498E-9390-F1558A752B1C}|WebApplicationserver\\WebApplicationserver.csproj|c:\\users\\\u05D7\u05D9\u05DC\u05D9\u05E9\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05E9\u05E0\u05D4 \u05D1\\angular\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\\real-time stock project\\server-.netcore\\webapplicationserver\\service\\stockservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{063B3439-3B76-498E-9390-F1558A752B1C}|WebApplicationserver\\WebApplicationserver.csproj|solutionrelative:webapplicationserver\\service\\stockservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{063B3439-3B76-498E-9390-F1558A752B1C}|WebApplicationserver\\WebApplicationserver.csproj|c:\\users\\\u05D7\u05D9\u05DC\u05D9\u05E9\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05E9\u05E0\u05D4 \u05D1\\angular\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\\real-time stock project\\server-.netcore\\webapplicationserver\\controllers\\stockscontroller .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{063B3439-3B76-498E-9390-F1558A752B1C}|WebApplicationserver\\WebApplicationserver.csproj|solutionrelative:webapplicationserver\\controllers\\stockscontroller .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{063B3439-3B76-498E-9390-F1558A752B1C}|WebApplicationserver\\WebApplicationserver.csproj|c:\\users\\\u05D7\u05D9\u05DC\u05D9\u05E9\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05E9\u05E0\u05D4 \u05D1\\angular\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\\real-time stock project\\server-.netcore\\webapplicationserver\\models\\stockquote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{063B3439-3B76-498E-9390-F1558A752B1C}|WebApplicationserver\\WebApplicationserver.csproj|solutionrelative:webapplicationserver\\models\\stockquote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{063B3439-3B76-498E-9390-F1558A752B1C}|WebApplicationserver\\WebApplicationserver.csproj|c:\\users\\\u05D7\u05D9\u05DC\u05D9\u05E9\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05E9\u05E0\u05D4 \u05D1\\angular\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\\real-time stock project\\server-.netcore\\webapplicationserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{063B3439-3B76-498E-9390-F1558A752B1C}|WebApplicationserver\\WebApplicationserver.csproj|solutionrelative:webapplicationserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{063B3439-3B76-498E-9390-F1558A752B1C}|WebApplicationserver\\WebApplicationserver.csproj|c:\\users\\\u05D7\u05D9\u05DC\u05D9\u05E9\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05E9\u05E0\u05D4 \u05D1\\angular\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\\real-time stock project\\server-.netcore\\webapplicationserver\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{063B3439-3B76-498E-9390-F1558A752B1C}|WebApplicationserver\\WebApplicationserver.csproj|solutionrelative:webapplicationserver\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{063B3439-3B76-498E-9390-F1558A752B1C}|WebApplicationserver\\WebApplicationserver.csproj|c:\\users\\\u05D7\u05D9\u05DC\u05D9\u05E9\\desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05E9\u05E0\u05D4 \u05D1\\angular\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\\real-time stock project\\server-.netcore\\webapplicationserver\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{063B3439-3B76-498E-9390-F1558A752B1C}|WebApplicationserver\\WebApplicationserver.csproj|solutionrelative:webapplicationserver\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 363,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\\u05D7\u05D9\u05DC\u05D9\u05E9\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05E9\u05E0\u05D4 \u05D1\\Angular\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\\Real-time stock project\\server-.netCore\\WebApplicationserver\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "WebApplicationserver\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\\u05D7\u05D9\u05DC\u05D9\u05E9\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05E9\u05E0\u05D4 \u05D1\\Angular\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\\Real-time stock project\\server-.netCore\\WebApplicationserver\\appsettings.Development.json",
+              "RelativeToolTip": "WebApplicationserver\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-22T20:53:02.513Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\\u05D7\u05D9\u05DC\u05D9\u05E9\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05E9\u05E0\u05D4 \u05D1\\Angular\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\\Real-time stock project\\server-.netCore\\WebApplicationserver\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApplicationserver\\appsettings.json",
+              "ToolTip": "C:\\Users\\\u05D7\u05D9\u05DC\u05D9\u05E9\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05E9\u05E0\u05D4 \u05D1\\Angular\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\\Real-time stock project\\server-.netCore\\WebApplicationserver\\appsettings.json",
+              "RelativeToolTip": "WebApplicationserver\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-22T20:52:59.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u05D7\u05D9\u05DC\u05D9\u05E9\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05E9\u05E0\u05D4 \u05D1\\Angular\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\\Real-time stock project\\server-.netCore\\WebApplicationserver\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplicationserver\\Program.cs",
+              "ToolTip": "C:\\Users\\\u05D7\u05D9\u05DC\u05D9\u05E9\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05E9\u05E0\u05D4 \u05D1\\Angular\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\\Real-time stock project\\server-.netCore\\WebApplicationserver\\Program.cs",
+              "RelativeToolTip": "WebApplicationserver\\Program.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAmwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T21:29:00.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StockService.cs",
+              "DocumentMoniker": "C:\\Users\\\u05D7\u05D9\u05DC\u05D9\u05E9\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05E9\u05E0\u05D4 \u05D1\\Angular\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\\Real-time stock project\\server-.netCore\\WebApplicationserver\\Service\\StockService.cs",
+              "RelativeDocumentMoniker": "WebApplicationserver\\Service\\StockService.cs",
+              "ToolTip": "C:\\Users\\\u05D7\u05D9\u05DC\u05D9\u05E9\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05E9\u05E0\u05D4 \u05D1\\Angular\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\\Real-time stock project\\server-.netCore\\WebApplicationserver\\Service\\StockService.cs",
+              "RelativeToolTip": "WebApplicationserver\\Service\\StockService.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAqwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T20:39:42.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StockQuote.cs",
+              "DocumentMoniker": "C:\\Users\\\u05D7\u05D9\u05DC\u05D9\u05E9\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05E9\u05E0\u05D4 \u05D1\\Angular\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\\Real-time stock project\\server-.netCore\\WebApplicationserver\\Models\\StockQuote.cs",
+              "RelativeDocumentMoniker": "WebApplicationserver\\Models\\StockQuote.cs",
+              "ToolTip": "C:\\Users\\\u05D7\u05D9\u05DC\u05D9\u05E9\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05E9\u05E0\u05D4 \u05D1\\Angular\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\\Real-time stock project\\server-.netCore\\WebApplicationserver\\Models\\StockQuote.cs",
+              "RelativeToolTip": "WebApplicationserver\\Models\\StockQuote.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T20:39:39.609Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StocksController .cs",
+              "DocumentMoniker": "C:\\Users\\\u05D7\u05D9\u05DC\u05D9\u05E9\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05E9\u05E0\u05D4 \u05D1\\Angular\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\\Real-time stock project\\server-.netCore\\WebApplicationserver\\Controllers\\StocksController .cs",
+              "RelativeDocumentMoniker": "WebApplicationserver\\Controllers\\StocksController .cs",
+              "ToolTip": "C:\\Users\\\u05D7\u05D9\u05DC\u05D9\u05E9\\Desktop\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05E9\u05E0\u05D4 \u05D1\\Angular\\\u05E4\u05E8\u05D5\u05D9\u05D9\u05E7\u05D8\\Real-time stock project\\server-.netCore\\WebApplicationserver\\Controllers\\StocksController .cs",
+              "RelativeToolTip": "WebApplicationserver\\Controllers\\StocksController .cs",
+              "ViewState": "AgIAABoAAAAAAAAAAADwvx4AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T20:39:33.616Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

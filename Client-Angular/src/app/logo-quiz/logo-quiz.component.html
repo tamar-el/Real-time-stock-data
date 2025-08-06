@@ -1,0 +1,47 @@
+<!-- 
+<div class="quiz-card">
+    <div class="score">ניקוד: {{ score }}</div>
+    <div class="timer">⏱ {{ timeLeft }} שניות</div>
+  
+    <img [src]="currentQuestion.logoPath" alt="Company Logo" class="logo" />
+  
+    <div class="choices">
+      <button 
+        *ngFor="let choice of choices" 
+        (click)="selectAnswer(choice)"
+        class="choice-btn">
+        {{ choice }}
+      </button>
+    </div>
+  
+    <div class="feedback" [ngClass]="{ correct: feedback.includes('✅'), wrong: feedback.includes('❌') }">
+      {{ feedback }}
+    </div>
+  </div> -->
+
+
+  <div class="quiz-card" *ngIf="currentQuestion">
+    <div class="top-bar">
+      <div class="score">ניקוד: {{ score }}</div>
+      <div class="timer">⏱ {{ timeLeft }} שניות</div>
+    </div>
+  
+    <div class="quiz-content">
+      <img [src]="currentQuestion.logoPath" alt="Company Logo" class="logo" />
+  
+      <div class="choices">
+        <button 
+          *ngFor="let choice of choices" 
+          (click)="selectAnswer(choice)"
+          class="choice-btn">
+          {{ choice }}
+        </button>
+      </div>
+    </div>
+  
+    <div class="feedback" 
+         [ngClass]="{ correct: feedback.includes('✅'), wrong: feedback.includes('❌') }">
+      {{ feedback }}
+    </div>
+  </div>
+  

@@ -1,0 +1,11 @@
+
+ <nav class="navbar">
+ 
+  <button 
+    *ngFor="let company of companyTypes" 
+    (click)="onStockTypeClick(company)"
+    class="nav-button" 
+    [class.selected]="isSelected(company)" >
+  {{company }}
+  </button>
+</nav>

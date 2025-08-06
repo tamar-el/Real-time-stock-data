@@ -1,0 +1,35 @@
+
+<div class="registration-container">
+   <div class="image-side"></div>
+ 
+   <div class="form-side">
+     <form (ngSubmit)="OnSubmit()" #userForm="ngForm">
+       <h2>הצטרפות</h2>
+       <p>הירשמו וקבלו עדכונים למייל!</p>
+ 
+       <label for="name">שם</label>
+       <input id="name" type="text" name="name" #name="ngModel" [(ngModel)]="user.name" required />
+       <div *ngIf="name.touched && name.invalid">שדה חובה</div>
+ 
+       <label for="email">אימייל</label>
+       <input id="email" type="text" name="email" #email="ngModel" [(ngModel)]="user.email" required />
+       <div *ngIf="email.touched && email.invalid">שדה חובה</div>
+ 
+       <label for="address">כתובת</label>
+       <input id="address" type="text" name="address" #address="ngModel" [(ngModel)]="user.address" required />
+       <div *ngIf="address.touched && address.invalid">שדה חובה</div>
+ 
+       <label for="password">סיסמה</label>
+       <input id="password" type="password" name="password" #password="ngModel" [(ngModel)]="user.password" required />
+       <div *ngIf="password.touched && password.invalid">שדה חובה</div>
+ 
+       <div class="checkbox-container">
+         <input type="checkbox" id="agree" />
+         <label for="agree">אני מאשר לקבל דיוור</label>
+       </div>
+ 
+       <button type="submit" [disabled]="userForm.invalid">הרשמה</button>
+     </form>
+   </div>
+ </div>
+ 

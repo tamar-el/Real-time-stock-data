@@ -1,0 +1,37 @@
+
+  .navbar {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    background: linear-gradient(90deg, #f8f9fa, #e9ecef);
+    padding: 15px;
+    border-radius: 15px;
+    box-shadow: 0 6px 10px rgba(0, 0, 0, 0.15);
+    border: 1px solid #ccc;
+    animation: fadeIn 1s ease-in-out;
+  }
+
+  .nav-button {
+    background: linear-gradient(90deg, #007bff, #0056b3);
+    color: white;
+    border: none;
+    border-radius: 25px;
+    padding: 12px 25px;
+    font-size: 18px;
+    font-weight: bold;
+    cursor: pointer;
+    transition:  0.3s, transform 0.2s, box-shadow 0.3s;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  }
+
+  .nav-button:hover {
+    background: linear-gradient(90deg, #0056b3, #003f7f);
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.3);
+    transform: translateY(-3px);
+  } 
+  .nav-button.selected {
+    background: linear-gradient(90deg, #042c56, #18518a);
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.4);
+    transform: scale(1.05);
+  }
+  
